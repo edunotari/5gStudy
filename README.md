@@ -2,12 +2,12 @@
 
 ## Infrastructure Sharing Models 
 
-NS - No Sharing
-PSS - Passive Site Sharing
-PBS - Passive Backhaul Sharing
-MORAN - Multi-Operator Radio Access Network (Active Sharing)
-SHN - Single Host Network
-MHN - Multiple Host Network
-NHN - Neutral Host Network
+NS - No Sharing<br />
+PSS - Passive Site Sharing<br />
+PBS - Passive Backhaul Sharing<br />
+MORAN - Multi-Operator Radio Access Network (Active Sharing)<br />
+SHN - Single Host Network<br />
+MHN - Multiple Host Network<br />
+NHN - Neutral Host Network<br />
 
 ![Share Types](images/shareTypes.png)
