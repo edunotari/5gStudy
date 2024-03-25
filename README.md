@@ -11,3 +11,5 @@ MHN - Multiple Host Network<br />
 NHN - Neutral Host Network<br />
 
 ![Share Types](images/shareTypes.png)
+
+https://scholar.google.com/scholar?cites=16302179091174948925&as_sdt=2005&sciodt=0,5&hl=en
