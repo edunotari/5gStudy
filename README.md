@@ -23,3 +23,6 @@ Internet of Things (IoT)
 
 ## ultra Reability Low-Latency Communications (uRLLC)
 Mission critical applications - 
+
+
+![3GPP TR by Net Elemnts](images/3GPP_5gNet_parts.png)
