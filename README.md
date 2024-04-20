@@ -25,4 +25,4 @@ Internet of Things (IoT)
 Mission critical applications - 
 
 
-![3GPP TR by Net Elemnts](images/3GPP_5gNet_parts.png)
+![3GPP TR by Net Elemnts](images/3gpp_5gNet_parts.png)
